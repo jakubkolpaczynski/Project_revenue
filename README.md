@@ -1,1 +1,1 @@
-# The project shows comapny's revenue and it's analysis.
+# The project shows company's revenue and it's analysis.
