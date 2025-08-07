@@ -1,4 +1,3 @@
 *.csv linguist-generated
 *.txt linguist-generated
-
 *.sql linguist-language=SQL
